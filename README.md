@@ -14,7 +14,7 @@ I'm a high school senior passionate about **Computer Science** and **Aviation**.
 ## 💼 Experience
 
 ### **Webmaster & Head Developer**  
-**VATSIM Virtual Washington ARTCC** | September 2023 - Present  
+**VATSIM Virtual Washington ARTCC**
 - Managed and developed a 50+ page website, ensuring efficient API and webhook communication.
 - Maintained a 150+ member organization, modernizing legacy systems and optimizing operations.
 
@@ -76,11 +76,13 @@ I’m open to working on **Java** or **web-based projects**. If you need a dedic
 
 📫 **Email me**: [aneeshjreddy@gmail.com](mailto:aneeshjreddy@gmail.com)
 
+Discord (main): **beabravedude**
+
 ---
 
 ### 🎾 Outside of Coding
 
-I'm a VATSIM C1 and MSFS 2020 enthusiast!
+I'm a VATSIM Center Controller and MSFS 2020/24 enthusiast!
 
 ---
 
